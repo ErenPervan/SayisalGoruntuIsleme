@@ -1,0 +1,32 @@
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.exe
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.deps.json
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.runtimeconfig.json
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.dll
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.pdb
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.Form1.resources
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.csproj.GenerateResource.cache
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.AssemblyInfoInputs.cache
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.AssemblyInfo.cs
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.csproj.CoreCompileInputs.cache
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.dll
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\refint\sayisal_goruntu_isleme_2.dll
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.pdb
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.genruntimeconfig.cache
+C:\Users\birka\OneDrive\Masaüstü\c#\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\ref\sayisal_goruntu_isleme_2.dll
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.exe
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.deps.json
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.runtimeconfig.json
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.dll
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\bin\Debug\net8.0-windows\sayisal_goruntu_isleme_2.pdb
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.Form1.resources
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.csproj.GenerateResource.cache
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.AssemblyInfoInputs.cache
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.AssemblyInfo.cs
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.csproj.CoreCompileInputs.cache
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.dll
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\refint\sayisal_goruntu_isleme_2.dll
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.pdb
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\sayisal_goruntu_isleme_2.genruntimeconfig.cache
+C:\Users\erenp\OneDrive\Masaüstü\Yeni klasör\sayisal_goruntu_isleme_2\obj\Debug\net8.0-windows\ref\sayisal_goruntu_isleme_2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sayisal_goruntu_isleme_2/1.0.0": {
+        "runtime": {
+          "sayisal_goruntu_isleme_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sayisal_goruntu_isleme_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
